@@ -2,7 +2,7 @@
 
 ## You have reached my GitHub!
 ## I hope you enjoy my projects, and find them useful.
-## If you enjoy them, be sure to give them a star!
+# If you enjoy them, be sure to give them a star!
 
 Updates:
  - Update_Full-UNIX 1.0.0 was released!!!
