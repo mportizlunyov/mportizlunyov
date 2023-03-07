@@ -5,7 +5,8 @@
 ### If you enjoy them, be sure to give them a star!
 
 Updates:
- - Update_Full-UNIX 1.0.0 was released!!!
+ - Update_Full-UNIX 1.1.0 was released
+   - See changelog
 <!--
 **mportizlunyov/mportizlunyov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
