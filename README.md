@@ -5,7 +5,7 @@
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
 
 Updates:
- - Update_Full-UNIX v1.2.2 (April 07th 2023) was released
+ - Update_Full-UNIX v1.3.2 (April 17th 2023) was released
    - See changelog
 <!--
 **mportizlunyov/mportizlunyov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
