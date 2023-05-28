@@ -7,7 +7,7 @@
 Updates:
  - Update_Full-UNIX v1.3.3 (April 28th 2023) was released
    - See [changelog](https://github.com/mportizlunyov/update_full-unix/blob/main/CHANGELOG.txt)
-   - Checksums updated
+   - [Checksums](https://github.com/mportizlunyov/uf-CHECKSUM_STORAGE/tree/main/Update_Full-UNIX/latest) updated
 <!--
 **mportizlunyov/mportizlunyov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
