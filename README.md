@@ -5,7 +5,7 @@
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
 
 Updates:
- - Update_Full-UNIX v1.3.3 (April 28th 2023) was released
+ - Update_Full-UNIX v1.4.3 (April 28th 2023) was released
    - See [changelog](https://github.com/mportizlunyov/update_full-unix/blob/main/CHANGELOG.txt)
    - [Checksums](https://github.com/mportizlunyov/uf-CHECKSUM_STORAGE/tree/main/Update_Full-UNIX/latest) updated
 <!--
