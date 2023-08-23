@@ -8,7 +8,7 @@
 ---
 
 Updates:
- - Update_Full-UNIX v1.4.4 (June 7th 2023) was released
+ - Update_Full-UNIX v1.5.5 (August 20th 2023) was released
    - See [changelog](https://github.com/mportizlunyov/update_full-unix/blob/main/CHANGELOG.txt)
    - [Checksums](https://github.com/mportizlunyov/uf-CHECKSUM_STORAGE/tree/main/Update_Full-UNIX/latest) updated
 <!--
