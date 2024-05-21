@@ -8,7 +8,8 @@
 ---
 
 Updates:
- - Update_Full-UNIX v1.5.7 (February 12th, 2024) was released
+ - Update_Full-UNIX v1.5.8 (May 21st, 2024) was released
+   - Bug fix!
    - See [changelog](https://github.com/mportizlunyov/update_full-unix/blob/main/CHANGELOG.txt)
    - [Checksums](https://github.com/mportizlunyov/uf-CHECKSUM_STORAGE/tree/main/Update_Full-UNIX/latest) updated
 <!--
