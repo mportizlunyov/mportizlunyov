@@ -4,7 +4,7 @@
 ## I hope you enjoy my projects, and find them useful.
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
 ---
-#### Contact: mportizlunyov @ ieee.org
+#### Contact: mportizlunyov(at)ieee.org
 ---
 
 Updates:
