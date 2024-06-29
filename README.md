@@ -4,8 +4,7 @@
 ## I hope you enjoy my projects, and find them useful.
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
 ---
-#### Contact: mportizlunyov(at)ieee.org
----
+
 
 Updates:
  - Update_Full-UNIX v1.5.8 (May 21st, 2024) was released
