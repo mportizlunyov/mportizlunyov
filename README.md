@@ -1,16 +1,10 @@
 # Hi there 👋
-
 ## You have reached my GitHub!
 ## I hope you enjoy my projects, and find them useful.
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
----
-
-
 Updates:
- - Update_Full-UNIX v1.5.8 (May 21st, 2024) was released
-   - Bug fix!
-   - See [changelog](https://github.com/mportizlunyov/update_full-unix/blob/main/CHANGELOG.txt)
-   - [Checksums](https://github.com/mportizlunyov/uf-CHECKSUM_STORAGE/tree/main/Update_Full-UNIX/latest) updated
+ - A repository containing some projects I worked on during my job have been released!
+   - See it at: [ITHelpdesk_Job_Projects](https://github.com/mportizlunyov/ITHelpdesk_Job_Projects)
 <!--
 **mportizlunyov/mportizlunyov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
