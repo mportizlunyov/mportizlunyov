@@ -3,6 +3,8 @@
 ## I hope you enjoy my projects, and find them useful.
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
 Updates:
+ - A new Go project & package that returns the name of the Linux distro being run has been released!
+   - See it at: [linuxdistroengine-go](https://github.com/mportizlunyov/linuxdistroengine-go)
  - A repository containing some projects I worked on during my job have been released!
    - See it at: [ITHelpdesk_Job_Projects](https://github.com/mportizlunyov/ITHelpdesk_Job_Projects)
 <!--
