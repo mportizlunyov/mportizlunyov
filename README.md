@@ -5,6 +5,7 @@
 Updates:
  - A new Go project & package that returns the name of the Linux distro being run has been released!
    - See it at: [linuxdistroengine-go](https://github.com/mportizlunyov/linuxdistroengine-go)
+   - pkg.dev.go Package: [pkg.go.dev/github.com/mportizlunyov/linuxdistroengine-go](https://pkg.go.dev/github.com/mportizlunyov/linuxdistroengine-go)
  - A repository containing some projects I worked on during my job have been released!
    - See it at: [ITHelpdesk_Job_Projects](https://github.com/mportizlunyov/ITHelpdesk_Job_Projects)
 <!--
