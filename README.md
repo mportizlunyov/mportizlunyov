@@ -3,6 +3,8 @@
 ## I hope you enjoy my projects, and find them useful.
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
 Updates:
+ - Update_Full-UNIX has been updated to version 2.0.0!
+   - See it at: [update_full-unix](https://github.com/mportizlunyov/update_full-unix)
  - A new Go project & package that returns the name of the Linux distro being run has been released!
    - See it at: [linuxdistroengine-go](https://github.com/mportizlunyov/linuxdistroengine-go)
    - pkg.dev.go Package: [pkg.go.dev/github.com/mportizlunyov/linuxdistroengine-go](https://pkg.go.dev/github.com/mportizlunyov/linuxdistroengine-go)
