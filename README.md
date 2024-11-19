@@ -3,6 +3,8 @@
 ## I hope you enjoy my projects, and find them useful.
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
 Updates:
+ - Script/Origin Origin Detector has been released for CheeseHacks 2024!
+   - See it at: [sa-origin-detector](https://github.com/mportizlunyov/sa-origin-detector)
  - Update_Full-UNIX has been updated to version v2.1.2!
    - See it at: [update_full-unix](https://github.com/mportizlunyov/update_full-unix)
  - linuxdistroengine-go has been updated to version v1.0.0!
