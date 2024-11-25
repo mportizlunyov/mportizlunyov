@@ -3,7 +3,7 @@
 ## I hope you enjoy my projects, and find them useful.
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
 Updates:
- - Go UNIX Package Detector has been released (v1.0.0)!
+ - Go UNIX Package Detector has been released (v1.0.4)!
    - See it at: [go-unix-pkg-detector](https://github.com/mportizlunyov/go-unix-pkg-detector)
    - pkg.go.dev Package: [https://pkg.go.dev/github.com/mportizlunyov/go-unix-pkg-detector/unixpkgdetector](https://pkg.go.dev/github.com/mportizlunyov/go-unix-pkg-detector/unixpkgdetector)
  - Script/Origin Origin Detector has been released for CheeseHacks 2024!
