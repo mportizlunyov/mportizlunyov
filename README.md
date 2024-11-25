@@ -6,8 +6,8 @@ Updates:
  - Go UNIX Package Detector has been released (v1.0.4)!
    - See it at: [go-unix-pkg-detector](https://github.com/mportizlunyov/go-unix-pkg-detector)
    - pkg.go.dev Package: [https://pkg.go.dev/github.com/mportizlunyov/go-unix-pkg-detector/unixpkgdetector](https://pkg.go.dev/github.com/mportizlunyov/go-unix-pkg-detector/unixpkgdetector)
- - Script/Origin Origin Detector has been released for CheeseHacks 2024!
-   - See it at: [sa-origin-detector](https://github.com/mportizlunyov/sa-origin-detector)
+ - CheeseHacks 2024 Script/Origin Origin Detector has been released for CheeseHacks 2024!
+   - See it at: [CheeseHacks2024_sa-origin-detector](https://github.com/mportizlunyov/CheeseHacks2024_sa-origin-detector)
  - Update_Full-UNIX has been updated to version v2.1.2!
    - See it at: [update_full-unix](https://github.com/mportizlunyov/update_full-unix)
  - linuxdistroengine-go has been updated to version v1.0.0!
