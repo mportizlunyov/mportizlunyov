@@ -3,6 +3,8 @@
 ## I hope you enjoy my projects, and find them useful.
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
 Updates:
+ - Captive Portal Credential Generator has been released (v0.0.1)!
+   - See it at [captive-portal-cred-generator](https://github.com/mportizlunyov/captive-portal-cred-generator)
  - Update_Full-Windows has been updated to version v0.0.2!
    - See it at [update_full-windows](https://github.com/mportizlunyov/update_full-windows)
  - Go UNIX Package Detector has been released (v1.0.4)!
