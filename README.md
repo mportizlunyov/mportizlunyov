@@ -2,23 +2,22 @@
 ## You have reached my GitHub!
 ## I hope you enjoy my projects, and find them useful.
 ### If you enjoy them, be sure to give them a star ⭐, and let others know!
+
+My website [mportizlunyov.github.io](https://mportizlunyov.github.io)
+
+Projects of interest:
+ - [Update_Full-PowerShell](https://github.com/mportizlunyov/update_full-powershell)
+ - [Update-Full-UNIX](https://github.com/mportizlunyov/update_full-unix)
+ - [ITHelpdesk_Job_Projects](https://github.com/mportizlunyov/ITHelpdesk_Job_Projects)
+
 Updates:
+ - Update-Full-PowerShell has been released!
+   - See it at: [update_full-powershell](https://github.com/mportizlunyov/update_full-powershell)
  - Update_Full-UNIX has been updated to version v2.1.3!
    - See it at: [update_full-unix](https://github.com/mportizlunyov/update_full-unix)
  - Captive Portal Credential Generator has been released (v0.0.1)!
    - See it at [captive-portal-cred-generator](https://github.com/mportizlunyov/captive-portal-cred-generator)
- - Update_Full-Windows has been updated to version v0.0.2!
-   - See it at [update_full-windows](https://github.com/mportizlunyov/update_full-windows)
- - Go UNIX Package Detector has been released (v1.0.4)!
-   - See it at: [go-unix-pkg-detector](https://github.com/mportizlunyov/go-unix-pkg-detector)
-   - pkg.go.dev Package: [https://pkg.go.dev/github.com/mportizlunyov/go-unix-pkg-detector/unixpkgdetector](https://pkg.go.dev/github.com/mportizlunyov/go-unix-pkg-detector/unixpkgdetector)
- - CheeseHacks 2024 Script/Origin Origin Detector has been released for CheeseHacks 2024!
-   - See it at: [CheeseHacks2024_sa-origin-detector](https://github.com/mportizlunyov/CheeseHacks2024_sa-origin-detector)
- - linuxdistroengine-go has been updated to version v1.0.0!
-   - See it at: [linuxdistroengine-go](https://github.com/mportizlunyov/linuxdistroengine-go)
-   - pkg.go.dev Package: [https://pkg.go.dev/github.com/mportizlunyov/linuxdistroengine-go/linuxdistroengine](https://pkg.go.dev/github.com/mportizlunyov/linuxdistroengine-go/linuxdistroengine)
- - A repository containing some projects I worked on during my job have been released!
-   - See it at: [ITHelpdesk_Job_Projects](https://github.com/mportizlunyov/ITHelpdesk_Job_Projects)
+ 
 <!--
 **mportizlunyov/mportizlunyov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
